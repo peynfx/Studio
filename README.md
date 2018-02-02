@@ -21,33 +21,33 @@ Sistema a domande multiple
 *********************************************************************
 
 
--Lanciare un programma dalla linea di comando inlcuso l'output
+- Lanciare un programma dalla linea di comando inlcuso l'output
 
--Caratteristiche e componenti di Java: indipendenza della piattaforma, orientamento oggetto, incapsulazione
+- Caratteristiche e componenti di Java: indipendenza della piattaforma, orientamento oggetto, incapsulazione
 
--Saper utilizzare classi Wrapper(Boolean, Double, Integer)
+- Saper utilizzare classi Wrapper(Boolean, Double, Integer)
 
--Saper utilizzare operatori e le loro precedenze (parentesi)
+- Saper utilizzare operatori e le loro precedenze (parentesi)
 
--Costruttori a 3 elementi
+- Costruttori a 3 elementi
 
--Creare metodi con argomenti capaci a ritornare valori inclusi gli Overload dei metodi(stesso nome/argomenti diversi)
+- Creare metodi con argomenti capaci a ritornare valori inclusi gli Overload dei metodi(stesso nome/argomenti diversi)
 
--Creare e sovracaricare un costruttore, incluso l'impatto che sulla versione di default
+- Creare e sovracaricare un costruttore, incluso l'impatto che sulla versione di default
 
--Descrivere l'ereditarietà ed i suoi benefici
+- Descrivere l'ereditarietà ed i suoi benefici
 
--Sviluppare codice che dimostri l'uso del polimorfismo(incluso l'override) 
+- Sviluppare codice che dimostri l'uso del polimorfismo(incluso l'override) 
 
--tipo oggetto vs tipo reference
+- tipo oggetto vs tipo reference
 
 - Descrivere i vantaggi della gestione delle eccezioni
 
--Creare ed invocare un metodo che lanci un eccezione
+- Creare ed invocare un metodo che lanci un eccezione
 
--Riconoscere le classi d'eccezione comuni: NullPointerException, ArithmeticException, ArrayIndexOutofBoundsException, ClassCastException
+- Riconoscere le classi d'eccezione comuni: NullPointerException, ArithmeticException, ArrayIndexOutofBoundsException, ClassCastException
 
--Saper manipolare i dati usando la classe StringBuilder e i suoi metodi
+- Saper manipolare i dati usando la classe StringBuilder e i suoi metodi
 
 - Saper creare un dato "calendario usando le classi da java.time.LocalDateTime, java.time.LocalDate, java.time.LocaleTime, java.time.format.DateTime, Formatter, java.time.Period
 
@@ -58,54 +58,54 @@ Sistema a domande multiple
 
 #######################
 
--Scopo delle variabili
+- Scopo delle variabili
 
--struttura di una classe
+- struttura di una classe
 
--creare applicazioni con main
+- creare applicazioni con main
 
--importare pacchetti Java accessibili al proprio codice
+- importare pacchetti Java accessibili al proprio codice
 
--Dichiarare e Inizializzare variabili(incluso il lancio di tipi di dati primitivi)
+- Dichiarare e Inizializzare variabili(incluso il lancio di tipi di dati primitivi)
 
--Differenza tra tra la "reference delle varaibili d'oggetto e variabili primitive
+- Differenza tra tra la "reference delle varaibili d'oggetto e variabili primitive
 
--SAper leggere e scrivere in un campo oggetto
+- Saper leggere e scrivere in un campo oggetto
 
--Spiegare il ciclo di vita di un oggetto
+- Spiegare il ciclo di vita di un oggetto
 
--Testare l'uguaglianza/parità tra le Stringhe e gli altri oggetti usando == e equals()
+- Testare l'uguaglianza/parità tra le Stringhe e gli altri oggetti usando == e equals()
 
--Creare costruttori ternari IF e IF/else
+- Creare costruttori ternari IF e IF/else
 
--Usare un adichiarazione Switch
+- Usare un adichiarazione Switch
 
--Dichiarare Istanziare ed Inizializzare ed usare un Array mono/multidimensionale
+- Dichiarare Istanziare ed Inizializzare ed usare un Array mono/multidimensionale
 
--Creare ed usare un loop While/Do-While
+- Creare ed usare un loop While/Do-While
 
--Creare ed usare un loop For inclus la sua versione migliorata
+- Creare ed usare un loop For inclus la sua versione migliorata
 
--Paragonare i vari costrutti "loop"
+- Paragonare i vari costrutti "loop"
 
--Conoscere l'uso di break; e continue;
+- Conoscere l'uso di break; e continue;
 
 Saper:
 
--Appliacare la parola chiave "static" nei metodi e nei campi
+- Appliacare la parola chiave "static" nei metodi e nei campi
 
--Applicare le modifice d'accesso
+- Applicare le modifice d'accesso
 
--Applicare i principi d'incapsulamento a una classe
+- Applicare i principi d'incapsulamento a una classe
 
--Determinare gli effetti sulle referenze oggetto e i valori primitivi quando sono passati ad un metodo che cambia i valori
+- Determinare gli effetti sulle referenze oggetto e i valori primitivi quando sono passati ad un metodo che cambia i valori
 
--Determinare quando il Casting è necessario
+- Determinare quando il Casting è necessario
 
--Saper usare gli oggetti e i costruttori super e this 
+- Saper usare gli oggetti e i costruttori super e this 
 
--Saper usare classi astratte ed interfacce
+- Saper usare classi astratte ed interfacce
 
--Differenza tra le eccezioni segnate e quelle non; e gli errori
+- Differenza tra le eccezioni segnate e quelle non; e gli errori
 
-Saper creare un blocco Try/Catch e determinare come le eccezioni alterino il flow del programma 
+- Saper creare un blocco Try/Catch e determinare come le eccezioni alterino il flow del programma 
