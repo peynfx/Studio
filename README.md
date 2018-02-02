@@ -109,3 +109,21 @@ Saper:
 - Differenza tra le eccezioni segnate e quelle non; e gli errori
 
 - Saper creare un blocco Try/Catch e determinare come le eccezioni alterino il flow del programma 
+
+####################################################################################################
+
+Preparazione all'esame
+
+Combinazione di risorse:
+
+- Libri 
+"http://aad.tpu.ru/1955/Java books/OCA Java SE 8 Programmer I Certification Guide.pdf"
+- Materiale Online
+https://www.udemy.com/java-tutorial/learn/v4/overview
+- Articoli
+- Prove Esami(free e paid)
+
+- Circa 150 ore di studio
+
+****************************************************************************************************
+
