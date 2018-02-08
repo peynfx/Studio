@@ -5,12 +5,12 @@
 *EDIT o ALT). 
 
 *C-<car>  significa che bisogna tenere abbassato il tasto CONTROL
-*  mentre si preme il carattere <car>.  Quindi C-f significa:
-* tieni premuto CONTROL e batti f.
+*mentre si preme il carattere <car>.  Quindi C-f significa:
+*tieni premuto CONTROL e batti f.
     
 *M-<car>  significa che bisogna tenere abbassato il tasto META o EDIT
-*  o ALT mentre si preme il carattere <car>.  Se non ci sono
-* tasti META, EDIT o ALT, al loro posto si può premere e poi
+*o ALT mentre si preme il carattere <car>.  Se non ci sono
+*tasti META, EDIT o ALT, al loro posto si può premere e poi
 *rilasciare il tasto ESC e quindi premere <car>.  Useremo
 *<ESC> per indicare il tasto ESC.
 
@@ -23,11 +23,11 @@
 *C-v	Vai avanti di una schermata
 *M-v	Vai indietro di una schermata
 *C-l	Cancella lo schermo e riscrivi tutto il testo,
-* muovendo il testo che si trova vicino al cursore al
-* centro dello schermo.  (Il tasto è CONTROL-L,
-* non CONTROL-1.)
+*muovendo il testo che si trova vicino al cursore al
+*centro dello schermo.  (Il tasto è CONTROL-L,
+*non CONTROL-1.)
     
-  C-f	Sposta avanti di un carattere
+ 	C-f	Sposta avanti di un carattere
 	C-b	Sposta indietro di un carattere
 
 	M-f	Sposta avanti di una parola
