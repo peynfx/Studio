@@ -41,3 +41,5 @@
 
 	M-a	Sposta all'inizio della frase
 	M-e	Sposta alla fine della frase
+	
+	
