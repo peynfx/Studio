@@ -1,1 +1,75 @@
+* Links
+
+- [[https://github.com/peynfx/Studio/blob/master/Note.org][Repository]] --- c-c c-l to make a link
+
+- [[file:Sayhello.java][Java example]] ---open java file below
+
+- you can link also mails and other files and other orgs!
+- yeah
+
+
+* outliner
+ - use * and space to make an outliner
+
+ - use more ** to create a subtree
+
+ - use shift+tab to extend or close outliners
+
+  text text text!
+   * +dfv+ (+)
+   * *bold*
+   * /italic/
+   * =text2=
+  
+
+** outliner 2 
+text
+ ** ore
+ * more items
+   + lol
+   + lol
+   + met+ret(invio) add items
+   + more items
+
+     - bullet
+
+     - bullet
+
+     - bullet
+
+
+
+*   Tables
+    
+
+| data1 | data2 | data3 |
+|-------+-------+-------|
+
+- use |- and tab to fill the tab
+
+| numeri | data |
+|--------+------|
+|     12 | ciao |
+|     13 | ola  |
+|--------+------|
+
+
+               
+- use meta+arrows to rearrange
+
+
+* Esport formats
+
+*C-c C-e*
+
+
+
+  
+* META DATAS: 
+
+#+TITLE: ORG MODE EXAMPLE
+#+OPTIONS: toc:nil
+
+* Source Code
+
 
