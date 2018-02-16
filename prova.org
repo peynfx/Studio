@@ -1,7 +1,29 @@
 * crescita personale
 
 ** rilassasmento
+   sto cercando di trovare modi per mantenere il controllo.
 
+*** i problemi sono vari
+   - l'effetto sopresa
+   - l'emotivo che sale
+   - situazioni mai uguali
+   - l'abitudine errata ad andare "in panico"
+*** possibili soluzioni:
+-  max ha proposto alcune tecniche di respirazione prese da QI GONG
+**** la mia esperienza
+     - respiro e postura
+     - resettare tutto
+     - stare fermi(non è facile)
+     - riordinare i pensieri
+**** come?
+     - pratica pratica pratica
+     - provare a farlo in un reale
+     - prendere confidenza con la calma
+**** ci sto riuscendo?
+     - nei casi di alto stress ho ancora problemi a gestire
+     - migliorato lo status di quiete in fase comoda
+     - migliorata la consapevolezza in fase "stress"
+     
 ** gestione pensieri
 
 ** formalizzare
@@ -71,7 +93,7 @@ text
                
 - use meta+arrows to rearrange
 
-
+  
 * Esport formats
 
 *C-c C-e*
