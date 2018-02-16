@@ -33,7 +33,7 @@
 
 
  
-
+   
 
 
 * Links
@@ -77,7 +77,7 @@ text
 
 
 
-*   Tables
+* Tables
     
 
 | data1 | data2 | data3 |
@@ -96,7 +96,7 @@ text
 - use meta+arrows to rearrange
 
   
-* Esport formats
+* Export formats
 
 *C-c C-e*
 
@@ -111,5 +111,5 @@ text
 
 * Source Code
 
-
++# 
 
