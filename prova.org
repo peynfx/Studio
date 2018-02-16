@@ -32,6 +32,8 @@
 
 
 
+ 
+
 
 
 * Links
@@ -103,7 +105,7 @@ text
   
 * META DATAS: 
 
-#+TITLE: ORG MODE EXAMPLE
+#+TITLE: Lo Zen del Programmatore
 #+OPTIONS: toc:nil
 
 
