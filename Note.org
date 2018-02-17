@@ -92,7 +92,7 @@
 *** git checkout master
     ritorna a master
 
-*** branch -d <nome>
+*** git checkot -d <nome>
     cancella branch
 
 *** git push origin <branch>
