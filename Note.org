@@ -101,15 +101,17 @@
 
 * Links
 
-- [[https://github.com/peynfx/Studio/blob/master/Note.org][Repository]] --- c-c c-l to make a link
+- [[https://github.com/peynfx/Studio/blob/master/Note.org][Repository]]  --- c-c c-l to make a link
 
-- [[file:Sayhello.java][Java example]] ---open java file below
+- [ [file:Sayhello.java][Java example] ]---open java file below
 
 - you can link also mails and other files and other orgs!
 - yeah
   
 
-* Outliner
+* Emacs
+
+** Outliner
 
  - use * and space to make an outliner
 
@@ -122,26 +124,9 @@
    * *bold*
    * /italic/
    * =text2=
-  
 
-** outliner 2 
-text
- ** ore
- * more items
-   + lol
-   + lol
-   + met+ret(invio) add items
-   + more items
-
-     - bullet
-
-     - bullet
-
-     - bullet
-
-
-
-* Tables
+     
+** Tables
     
 
 | data1 | data2 | data3 |
@@ -160,20 +145,20 @@ text
 - use meta+arrows to rearrange
 
   
-* Export formats
+** Export formats
 
 *C-c C-e*
 
 
 
   
-* META DATAS: 
+** META DATAS: 
 
 #+TITLE: Lo Zen del Programmatore
 #+OPTIONS: toc:nil
 
 
-* Source Code
+** Source Code
  
 
 
