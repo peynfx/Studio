@@ -65,6 +65,39 @@
    
 
 
+* Git
+
+** commands
+
+ 
+*** git init
+    crea una repository locale
+
+*** git remote add origin <link>
+    collega la repositoruy locale al Git in rete
+
+*** git add culo.org
+    prepara un file all'upload
+
+*** git commit -all
+    convalida il file pronto perl'upload
+    -m <messaggio> lascia una nota
+
+*** git push origin master
+    carica file su Git su master
+
+*** git checkout - b <nome>
+    crea nuovo branch alternativo al master
+
+*** git checkout master
+    ritorna a master
+
+*** branch -d <nome>
+    cancella branch
+
+*** git push origin <branch>
+    carica branch su Git
+
 * Links
 
 - [[https://github.com/peynfx/Studio/blob/master/Note.org][Repository]] --- c-c c-l to make a link
