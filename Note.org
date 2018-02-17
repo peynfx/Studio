@@ -5,11 +5,12 @@
    non credo sia proprio controllo quanto un uno stato di "know-how" che ti evita il panico
   
    
-*** I problemi sono vari
+*** I Problemi sono vari
    - l'effetto sopresa
    - l'emotivo che sale
    - situazioni mai uguali
    - l'abitudine errata ad andare "in panico"
+
 
 *** Possibili Soluzioni:
     max ha proposto alcune tecniche di respirazione prese da QI GONG
@@ -17,14 +18,16 @@
     io credo che bisogna entrare nell'ottica del *ce la posso fare* in qualunque occasione
     le tecniche di respirazioni servono a tamponare l'agitazionema la soluzione è entare
     nell'ottica che nsi riesca a fare tutto come un vettore che punta in avanti cmq e cerca una soluzione.
-**** la mia esperienzaù
+
+*** La mia esperienza
      
 
-**** come?
+**** Come?
      - pratica pratica pratica
      - provare a farlo in un reale
      - prendere confidenza con la calma
-**** ci sto riuscendo?
+
+**** Ci sto riuscendo?
      - nei casi di alto stress ho ancora problemi a gestire
      - migliorato lo status di quiete in fase comoda
      - migliorata la consapevolezza in fase "stress"
@@ -41,6 +44,7 @@
   - lo stato risolutivo richiede un prezzo: energia, tempo e autostima
   - le prime sono facilmente ottenibili, l'autostima va gestita
   - io sono arrivatio qui
+
 
 ** Formalizzare
 
@@ -92,7 +96,7 @@
 *** git checkout master
     ritorna a master
 
-*** git checkot -d <nome>
+*** branch -d <nome>
     cancella branch
 
 *** git push origin <branch>
@@ -101,17 +105,15 @@
 
 * Links
 
-- [[https://github.com/peynfx/Studio/blob/master/Note.org][Repository]]  --- c-c c-l to make a link
+- [[https://github.com/peynfx/Studio/blob/master/Note.org][Repository]] --- c-c c-l to make a link
 
-- [ [file:Sayhello.java][Java example] ]---open java file below
+- [[file:Sayhello.java][Java example]] ---open java file below
 
 - you can link also mails and other files and other orgs!
 - yeah
   
 
-* Emacs
-
-** Outliner
+* Outliner
 
  - use * and space to make an outliner
 
@@ -124,9 +126,26 @@
    * *bold*
    * /italic/
    * =text2=
+  
 
-     
-** Tables
+** outliner 2 
+text
+ ** ore
+ * more items
+   + lol
+   + lol
+   + met+ret(invio) add items
+   + more items
+
+     - bullet
+
+     - bullet
+
+     - bullet
+
+
+
+* Tables
     
 
 | data1 | data2 | data3 |
@@ -145,20 +164,20 @@
 - use meta+arrows to rearrange
 
   
-** Export formats
+* Export formats
 
 *C-c C-e*
 
 
 
   
-** META DATAS: 
+* META DATAS: 
 
 #+TITLE: Lo Zen del Programmatore
 #+OPTIONS: toc:nil
 
 
-** Source Code
+* Source Code
  
 
 
