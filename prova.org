@@ -1,20 +1,25 @@
-* crescita personale
+* Crescita Personale
 
-** rilassamento
-   sto cercando di trovare modi per mantenere il controllo.
-
-*** i problemi sono vari
+** Rilassamento
+   Sto cercando di trovare modi per acquisiree mantenere il controllo emotivo.
+   non credo sia proprio controllo quanto un uno stato di "know-how" che ti evita il panico
+  
+   
+*** I problemi sono vari
    - l'effetto sopresa
    - l'emotivo che sale
    - situazioni mai uguali
    - l'abitudine errata ad andare "in panico"
-*** possibili soluzioni:
--  max ha proposto alcune tecniche di respirazione prese da QI GONG
-**** la mia esperienza
-     - respiro e postura
-     - resettare tutto
-     - stare fermi(non è facile)
-     - riordinare i pensieri
+
+*** Possibili Soluzioni:
+    max ha proposto alcune tecniche di respirazione prese da QI GONG
+    
+    io credo che bisogna entrare nell'ottica del *ce la posso fare* in qualunque occasione
+    le tecniche di respirazioni servono a tamponare l'agitazionema la soluzione è entare
+    nell'ottica che nsi riesca a fare tutto come un vettore che punta in avanti cmq e cerca una soluzione.
+**** la mia esperienzaù
+     
+
 **** come?
      - pratica pratica pratica
      - provare a farlo in un reale
@@ -24,13 +29,37 @@
      - migliorato lo status di quiete in fase comoda
      - migliorata la consapevolezza in fase "stress"
      
-** gestione pensieri
 
-** formalizzare
+** Gestione pensieri
+   ho notato che in una giornata *uggiosa* è molto piu facile essere inclini ad uno stato risolutivo
+   e credo che  sia bilaterale (giornata/status)
+   
+   poniamo per esempio che ad un certo punto un problema sorga, fermiamo il tempo, l'emozione negativa sta per sorgere:
+   in realta  si arriva ad un bivio: andare in panico o affrontare il problema.
+   
+  - il panico è gratuito per cui è molto piu facile scegliere quella opzione
+  - lo stato risolutivo richiede un prezzo: energia, tempo e autostima
+  - le prime sono facilmente ottenibili, l'autostima va gestita
+  - io sono arrivatio qui
 
-** attuare
+** Formalizzare
 
-
+   Non sono sicuro cosa voglia dire formalizzare, parafrasando wikipedia formalizzare significa rendere ufficiale un *qualcosa*
+   
+***  Uffializzare un Pensiero
+   
+   Sto cercando di capirne il senso, speso lo si fa in automatico, confermi un idea  nel momento in cui  /la credi reale/,
+   quando lo =rendi=  reale. 
+   
+   
+** Attuare
+  
+*** La variabile dell'inconscio
+   
+   Come in una variabile qualsiasi del nostro amato Java, se la cosidetta ha un valore non ne può aveere un altro.
+   Formalizzare in anticipo percio un pensiero potrebbe equivalere a *dare un valore alla variabile* cosicchè  si disabiliti
+   il riempimento automatico causato dall'inconscio. 
+   
 
  
    
@@ -44,9 +73,10 @@
 
 - you can link also mails and other files and other orgs!
 - yeah
+  
 
+* Outliner
 
-* outliner
  - use * and space to make an outliner
 
  - use more ** to create a subtree
@@ -110,6 +140,22 @@ text
 
 
 * Source Code
+ 
 
-+# 
+
+#+BEGIN_SRC java
+
+import java.util.*;
+
+public class Ciao{
+
+public static void main(String[] args){
+
+}
+
+}
+
+#+END_SRC
+
+
 
