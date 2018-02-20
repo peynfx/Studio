@@ -16,7 +16,7 @@
     max ha proposto alcune tecniche di respirazione prese da QI GONG
     
     io credo che bisogna entrare nell'ottica del *ce la posso fare* in qualunque occasione
-    le tecniche di respirazioni servono a tamponare l'agitazionema la soluzione è entare
+    le tecniche di respirazioni servono a tamponare l'agitazionema la soluzione Ã¨ entare
     nell'ottica che nsi riesca a fare tutto come un vettore che punta in avanti cmq e cerca una soluzione.
 
 *** La mia esperienza
@@ -34,13 +34,13 @@
      
 
 ** Gestione pensieri
-   ho notato che in una giornata *uggiosa* è molto piu facile essere inclini ad uno stato risolutivo
+   ho notato che in una giornata *uggiosa* Ã¨ molto piu facile essere inclini ad uno stato risolutivo
    e credo che  sia bilaterale (giornata/status)
    
    poniamo per esempio che ad un certo punto un problema sorga, fermiamo il tempo, l'emozione negativa sta per sorgere:
    in realta  si arriva ad un bivio: andare in panico o affrontare il problema.
    
-  - il panico è gratuito per cui è molto piu facile scegliere quella opzione
+  - il panico Ã¨ gratuito per cui Ã¨ molto piu facile scegliere quella opzione
   - lo stato risolutivo richiede un prezzo: energia, tempo e autostima
   - le prime sono facilmente ottenibili, l'autostima va gestita
   - io sono arrivatio qui
@@ -60,8 +60,8 @@
   
 *** La variabile dell'inconscio
    
-   Come in una variabile qualsiasi del nostro amato Java, se la cosidetta ha un valore non ne può aveere un altro.
-   Formalizzare in anticipo percio un pensiero potrebbe equivalere a *dare un valore alla variabile* cosicchè  si disabiliti
+   Come in una variabile qualsiasi del nostro amato Java, se la cosidetta ha un valore non ne puÃ² aveere un altro.
+   Formalizzare in anticipo percio un pensiero potrebbe equivalere a *dare un valore alla variabile* cosicchÃ¨  si disabiliti
    il riempimento automatico causato dall'inconscio. 
    
 
@@ -206,12 +206,5 @@ System.out.println("Ciao");
 ** LateX integration
 
 - Characters: \alpha \rightarrow \beta
-- $0(n \log n)$ 
-  
-\begin{Align*}
 
-3*2+&= 6 +1
-
-
-\end{align*}
 
