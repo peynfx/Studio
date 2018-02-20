@@ -202,9 +202,16 @@ System.out.println("Ciao");
 #+RESULTS:
 :
 
-
+   
 ** LateX integration
 
 - Characters: \alpha \rightarrow \beta
 - $0(n \log n)$ 
+  
+\begin{Align*}
+
+3*2+&= 6 +1
+
+
+\end{align*}
 
