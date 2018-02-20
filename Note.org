@@ -176,10 +176,12 @@ text
 #+TITLE: Lo Zen del Programmatore
 #+OPTIONS: toc:nil
 
+Come potete vedere non appare nulla su output
+
 
 * Source Code
  
-
+** Importa codice
 
 #+BEGIN_SRC java
 
@@ -188,7 +190,7 @@ import java.util.*;
 public class Ciao{
 
 public static void main(String[] args){
-
+System.out.println("Ciao");
 }
 
 }
@@ -196,4 +198,13 @@ public static void main(String[] args){
 #+END_SRC
 
 
+
 #+RESULTS:
+:
+
+
+** LateX integration
+
+- Characters: \alpha \rightarrow \beta
+- $0(n \log n)$ 
+
