@@ -219,18 +219,3 @@ System.out.println("Ciao");
 ** LateX integration
 
 - Characters: \alpha \rightarrow \beta
-- $0(n \log n)$ 
-  
-\begin{Align*}
-
-3*2+&= 6 +1
-
-
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> master
-\end{align*}
-
