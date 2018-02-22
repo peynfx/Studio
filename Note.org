@@ -1,2 +1,2 @@
-+#TITLE: Master Note.org
+#+TITLE: Master Note.org
 
