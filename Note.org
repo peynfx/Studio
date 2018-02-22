@@ -7,3 +7,4 @@ Thomas: Io direi di cominciare con uno scambio di dati su questo file per prende
         Attendo notizie. Nel frattempo i miei file precedenti sono salvati nel branch Thommy.
         
 
+
