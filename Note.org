@@ -1,2 +1,9 @@
 #+TITLE: Master Note.org
 
+
+* Come cominciamo? 
+
+Thomas: Io direi di cominciare con uno scambio di dati su questo file per prendere dimestichezza con GIT.
+        Attendo notizie. Nel frattempo i miei file precedenti sono salvati nel branch Thommy.
+        
+
