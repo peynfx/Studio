@@ -69,15 +69,22 @@
    
 
 
-
 * EMACS
 
 ** TO-DO 							      :Emacs:
 
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) | DONE(d) CANCELLED (c) 
 
-*** TODO    Ctrl-C Ctrl C over SEQ_TODO to activate and add keywords  
-*** NEXT    Ctrl-c Ctrl-t open TODO menu
+*** TODO Ctrl-C Ctrl C over SEQ_TODO to activate and add keywords  
+    SCHEDULED: <2018-02-21 mer>
+
+*** NEXT Ctr-lc Ctrl-t open TODO menu
+    DEADLINE: <2018-02-23 ven> SCHEDULED: <2018-02-22 gio>
+    
+    - Ctrl-c Ctrl -d add deadline
+    - Ctrl-c Ctrl -s add Schedule
+    - Ctrl-a open agenda
+      * Se non funziona alt-x org-agenda  e tasto a;
 *** WAITING Ctrl-c Ctrl-c add tags
 *** SOMEDAY Ctrl-c Ctrl-w move outline to another outliner
 
@@ -219,3 +226,6 @@ System.out.println("Ciao");
 ** LateX integration
 
 - Characters: \alpha \rightarrow \beta
+
+
+
