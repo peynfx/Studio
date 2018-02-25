@@ -175,7 +175,7 @@ text
 
 * Source Code
  
-#
+#+headers: :classname Ciao
 
 #+BEGIN_SRC java
 
