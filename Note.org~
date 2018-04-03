@@ -1,43 +1,3 @@
- 
-
-
-
-
-
-* Git
-
-** commands
-
- 
-*** git init
-    crea una repository locale
-
-*** git remote add origin <link>
-    collega la repositoruy locale al Git in rete
-
-*** git add culo.org
-    prepara un file all'upload
-
-*** git commit -all
-    convalida il file pronto perl'upload
-    -m <messaggio> lascia una nota
-
-*** git push origin master
-    carica file su Git su master
-
-*** git checkout - b <nome>
-    crea nuovo branch alternativo al master
-
-*** git checkout master
-    ritorna a master
-
-*** branch -d <nome>
-    cancella branch
-
-*** git push origin <branch>
-    carica branch su Git
-
-
 * Crescita Personale
 
 ** Rilassamento
@@ -82,7 +42,6 @@
   - le prime sono facilmente ottenibili, l'autostima va gestita
   - io sono arrivatio qui
 
-
 ** Formalizzare
 
    Non sono sicuro cosa voglia dire formalizzare, parafrasando wikipedia formalizzare significa rendere ufficiale un *qualcosa*
@@ -97,33 +56,47 @@
   
 *** La variabile dell'inconscio
    
-   Come in una variabile qualsiasi del nostro Java, se la cosidetta ha un valore non ne può aveere un altro.
-   Perciò formalizzare in anticipo un pensiero, potrebbe equivalere a *dare un valore alla variabile* cosicchè  si disabiliti
+   Come in una variabile qualsiasi del nostro amato Java, se la cosidetta ha un valore non ne può aveere un altro.
+   Formalizzare in anticipo percio un pensiero potrebbe equivalere a *dare un valore alla variabile* cosicchè  si disabiliti
    il riempimento automatico causato dall'inconscio. 
    
-*** NEXT [#A] Pratica						    :Pratica:
+
+ 
+   
 
 
+* Git
 
+** commands
 
+ 
+*** git init
+    crea una repository locale
 
+*** git remote add origin <link>
+    collega la repositoruy locale al Git in rete
 
-* NEXT [#A] TO-DO						      :Emacs:
+*** git add culo.org
+    prepara un file all'upload
 
-Ctrl-C Ctrl C below to add keywords 
-#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) | DONE(d) CANCELLED (c) 
+*** git commit -all
+    convalida il file pronto perl'upload
+    -m <messaggio> lascia una nota
 
-* WAITING TODO  Ctrl-c Ctrl-t open TODO menu
-  DEADLINE: <2018-02-27 mar> SCHEDULED: <2018-02-22 gio>
+*** git push origin master
+    carica file su Git su master
 
-Ctrl-c Ctrl-c add tags
+*** git checkout - b <nome>
+    crea nuovo branch alternativo al master
 
-Ctrl-c Ctrl-w move outline to another outliner
+*** git checkout master
+    ritorna a master
 
+*** branch -d <nome>
+    cancella branch
 
-
-
-  
+*** git push origin <branch>
+    carica branch su Git
 
 
 * Links
@@ -196,13 +169,13 @@ text
   
 * META DATAS: 
 
-#+OPTIONS: toc:nil
 #+TITLE: Lo Zen del Programmatore
+#+OPTIONS: toc:nil
 
 
 * Source Code
  
-#+headers: :classname Ciao
+
 
 #+BEGIN_SRC java
 
@@ -220,6 +193,3 @@ public static void main(String[] args){
 
 
 #+RESULTS:
-  
-  
-  
