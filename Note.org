@@ -11,3 +11,6 @@ Thomas: Io direi di cominciare con uno scambio di dati su questo file per prende
 ** Prova  SCHEDULED: <2018-04-03 mar>
 
    Vediamo che succede facendo una modifica!
+
+   Dopo aver fatto il merge su master aggiungo una modifica su thommy.
+
